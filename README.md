@@ -84,7 +84,7 @@
 
 系统采用**五层模块化架构**，分工清晰、耦合度低：
 
-![系统架构图](docs/images/system-architecture.png)
+![系统架构图](docs/images/concept2.jpg)
 
 | 层级 | 核心器件 | 主要职责 |
 |------|----------|----------|
