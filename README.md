@@ -199,7 +199,7 @@ git clone https://gitee.com/LYJ-yanjun/smart-fall-guard-robot.git
 
 ### 7 天冲刺甘特图（2026-09-02 → 09-08）
 
-![开发冲刺甘特图](docs/images/concept2.jpg)
+![开发冲刺甘特图](docs/images/concept3.jpg)
 
 | 阶段 | 时间 | 任务 | 交付物 |
 |------|------|------|--------|
